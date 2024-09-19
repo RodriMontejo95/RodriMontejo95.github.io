@@ -1,0 +1,38 @@
+h1{
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    font-size: 59pt;
+    color: #0a2ff1;
+    text-align: left;
+
+}
+h3{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 23pt;
+    color: #0a2ff1;
+    text-align: left;
+}
+
+.cuadro{
+    box-sizing: border-box;
+    width: 850px;
+    padding: 10px 10px 10px 30px;
+    border: solid #0a2ff1 10px;
+    border-radius: 20px;
+    
+}
+
+.telefono{
+    width: 400px;
+    display: flex;
+    margin-left: 170px;
+    background-image: url(fondo.JPG);
+}
+
+ /*body{
+    background-image: url(bosque.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}*/
